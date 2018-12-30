@@ -1,0 +1,15 @@
+<?php
+include_once('header.php');
+?>
+<style>
+    .detail-content {
+        padding-top: 23px;
+    }
+</style>
+    <div class="site-sub-content" style="background:#2a2c35;"> <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 fullwidthsidebar"> <div class="page-list page-content-list"> <article id="page-16" class="post-16 page type-page status-publish hentry"> <div class="page-wrapper"> <div class="page-content"> <div class="page-content-body">
+
+    <div  style="background: white" id="About" class="vc_row wpb_row vc_row-fluid container containerNoPadding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 100px"><span class="vc_empty_space_inner"></span></div><div class="content-title-element dark"><div class="title" style="text-decoration: overline;">BHAKT PRAHALAD</div></div><div class="vc_empty_space" style="height: 45px"><span class="vc_empty_space_inner"></span></div><div class="movie-box"><div class="poster"><img style="width:370px;height:auto"  src="images/prahalad.jpg" class="attachment-themovie-movie-poster size-themovie-movie-poster" alt="The Beginning of New Life" srcset="images/prahalad.jpg 370w, images/prahalad.jpg 203w, images/prahalad.jpg 768w, images/aagkagola.jpg 693w, images/prahalad.jpg 794w" sizes="(max-width: 370px) 100vw, 370px"/></div><div class="detail"><div class="detail-heading"></div><div class="detail-list"><div class="detail-row"><div class="detail-title"><i class="fa fa-play-circle-o" aria-hidden="true"></i><span>YEAR</span></div><div class="detail-content">TBA</div></div><div class="detail-row"><div class="detail-title"><i class="fa fa-clock-o" aria-hidden="true"></i><span>GENRE</span></div><div class="detail-content">3D Animation</div></div><div class="detail-row"><div class="detail-title"><i class="fa fa-language" aria-hidden="true"></i><span>STATUS</span></div><div class="detail-content">In Development</div></div></div><div class="summary"><p>‘Bhakt Prahalad’ based on the fabled mythological tale of one of Vishnu’s biggest devotees, Prahalad. Prahalad was born to  Hiranyakashyap and Kayadu, an evil king who had been granted a boon that he could not be killed by man or animal, day or night, inside or outside. Despite several warnings from his father Hiranyakashipu, Prahalad continues to worship Vishnu instead  of him. His father then decided to commit filicide and poison him, but he survived.</p><p>Holika, the sister of Hiranyakashyap, was blessed such that she could not be hurt by fire.Hiranyakashyap finally puts Prahalad on the lap of Holika as she sits on a pyre. Prahalad prays to Vishnu to keep him safe. Holika burns to death as Prahalad is unscathed</p><p>After tolerating abuse from Hiranyakashyap, Prahalad is eventually saved by Narasimha, the half-man, half-lion avatar, who kills the king at the entrance to his home at dusk</p></div></div></div><div class="vc_empty_space" style="height: 89px"><span class="vc_empty_space_inner"></span></div></div></div></div></div>
+
+<?php
+include_once('footer.php');
+?>
